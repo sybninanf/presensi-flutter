@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086467189890",
+    "project_id": "facerecognition-65a2c",
+    "storage_bucket": "facerecognition-65a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086467189890:android:7dd4e51a434a127825589b",
+        "android_client_info": {
+          "package_name": "com.example.presensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIj0iGWDC1iTxxv7d5V0yGQ8Ud40Uc-3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
